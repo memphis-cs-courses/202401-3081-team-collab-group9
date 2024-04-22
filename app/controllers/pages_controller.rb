@@ -4,4 +4,10 @@ class PagesController < ApplicationController
 
   def robomal
   end
+
+  def NaitikKaythwal
+  end
+
+  def uofmmk
+  end
 end
