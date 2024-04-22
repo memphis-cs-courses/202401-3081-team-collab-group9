@@ -3,10 +3,18 @@ class PagesController < ApplicationController
   end
 
 
+
   def chancekirby
   end
   
-  def uofmmk
 
+  def robomal
+  end
+
+
+  def NaitikKaythwal
+  end
+
+  def uofmmk
   end
 end
