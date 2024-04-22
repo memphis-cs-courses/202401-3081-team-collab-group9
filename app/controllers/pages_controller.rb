@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def NaitikKaythwal
   end
+
+  def uofmmk
+  end
 end
