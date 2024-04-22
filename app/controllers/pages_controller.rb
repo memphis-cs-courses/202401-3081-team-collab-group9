@@ -2,7 +2,6 @@ class PagesController < ApplicationController
   def index
   end
 
-  def username
-    get 'username', to: 'pages#username', as: 'username'
+  def robomal
   end
 end
