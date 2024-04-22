@@ -2,7 +2,9 @@ class PagesController < ApplicationController
   def index
   end
 
-  def uofmmk
+  def NaitikKaythwal
+  end
 
+  def uofmmk
   end
 end
